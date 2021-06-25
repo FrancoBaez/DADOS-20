@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624319548 source:c:\users\franco\utn\lab 1\dados 20\dados20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<string.h>
+	"funciones.h"
+	"calculos.h"
+
+1623993908 c:\users\franco\utn\lab 1\dados 20\dados20\funciones.h
+	<windows.h>
+
+1624319510 c:\users\franco\utn\lab 1\dados 20\dados20\calculos.h
+
